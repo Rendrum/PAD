@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ndJXb/rUjh93lbrfy61cnt4CFpXbxw9BlPO/rpRyfxWw+DOteAa2XE00pmqNW5voyW0CYkfe+trDEdgoJpsSIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Scooby\\Desktop\\Agent Meagerie\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Scooby\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
